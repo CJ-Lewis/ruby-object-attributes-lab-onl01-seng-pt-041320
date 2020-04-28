@@ -11,6 +11,6 @@ class Person
   
   def job=(occupation)
     @job = occupation
-    @job = "singer"
+    @job = "Singer"
   end
 end
